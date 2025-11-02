@@ -16,5 +16,5 @@ target = integer
 To find: two indices (i, j) such that:
 
 ```c
-nums[i] + nums[j] == target   # i ≠ j
+nums[i] + nums[j] == target   # i != j
 ```
