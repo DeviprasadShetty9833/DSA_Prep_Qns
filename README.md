@@ -12,12 +12,18 @@ Please note: the prt.c file includes some random questions of all topics which i
 ```html
 LeetCode/
 |
-├── Arrays/ 
-├── (Question 1: Find minimum or maximum number in array)
+├── Arrays/
+├── Easy/
+├── 1_Two_Sum/
+├── src.c
+├── Journey.txt
 ├── (Question 2:find last duplicate number in sorted array)
 |
 ├── Stacks/
-├── stacks.c (Question 1: Implement a stack using arrays)
+├── Easy/
+├── 20_Valid_Parentheses/
+├── src.c
+├── Journey.txt
 |
 ├── Queues/
 ├── queue.c (Question 1: Circular queue implementation)
