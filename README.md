@@ -17,7 +17,7 @@ LeetCode/
 ├── 1_Two_Sum/
 ├── src.c
 ├── Journey.txt
-├── 14_Two_Sum/
+├── 14_Longest_Common_Prefix/
 ├── src.c
 ├── Journey.txt
 ├──
