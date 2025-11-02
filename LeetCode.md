@@ -26,7 +26,7 @@ Level: `Hard`
 Level: `Easy`
 | LC Qn | Title | Solution | Logical Flow |
 |---|---|---|---|
-| 20. | [Valid_Patentheses]() | [src.c](LeetCode/Stack/Easy/20_Valid_Patentheses/src.c) | [Logic](LeetCode/Stack/Easy/20_Valid_Patentheses/Logic.txt) |
+| 20. | [Valid_Patentheses](https://leetcode.com/problems/valid-parentheses/?envType=problem-list-v2&envId=stack) | [src.c](LeetCode/Stack/Easy/20_Valid_Patentheses/src.c) | [Logic](LeetCode/Stack/Easy/20_Valid_Patentheses/Logic.txt) |
 |  |  |  |  |
 
 Level: `Medium`
