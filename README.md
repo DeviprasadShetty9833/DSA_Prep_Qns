@@ -40,7 +40,7 @@ This repository contains my solutions to **basic to medium-level Data Structures
 ---
 
 ## 📂 Repository Structure
-The problems are grouped by Platform/Data Structure/Level/Topic, and each topic contains solutions for multiple questions and Flow of solving, Learnings, Mistakes, etc. Each problem is numbered as per the Coding Platform list for easy reference.
+The problems are grouped by Platform/Data Structure/Level/Topic, and each topic contains solutions for multiple questions and Logical Flow of solving, Learnings, Mistakes, etc. Each problem is numbered as per the Coding Platform list for easy reference.
 Please note: the prac.c file includes some random questions of all topics which i used to practice and prepare for my viva examinations
 
 
@@ -54,16 +54,16 @@ LeetCode/
 │   ├── Easy/                             # Medium 
 │   │   ├── 📑 1_Two_Sum/                 # Question 
 │   │   │   ├── src.c                     # Solution 
-│   │   │   ├── Journey.txt               # Learning, Mistakes, Your Flow of Solving & Answering 
+│   │   │   ├── Logic.txt                 # Learning, Mistakes, Your Logical Flow of Solving & Answering 
 │   │   ├── 📑 14_Longest_Common_Prefix/
 │   │   │   ├── src.c            
-│   │   │   ├── Journey.txt
+│   │   │   ├── Logic.txt
 │
 ├── 📂 Stacks/                        
 │   ├── Easy/
 │   │   ├── 📑 20_Valid_Parentheses/
 │   │   │   ├── src.c            
-│   │   │   ├── Journey.txt
+│   │   │   ├── Logic.txt
 
 ```
 ---
