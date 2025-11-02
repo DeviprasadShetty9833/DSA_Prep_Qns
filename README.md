@@ -16,7 +16,7 @@ LeetCode/
 │   ├── Easy/                             # Medium 
 │   │   ├── 📑 1_Two_Sum/                 # Question 
 │   │   │   ├── src.c                     # Solution 
-│   │   │   ├── Journey.txt               # Learning, Mistakes, Flow of Answering 
+│   │   │   ├── Journey.txt               # Learning, Mistakes, Your Flow of Solving & Answering 
 │   │   ├── 📑 14_Longest_Common_Prefix/
 │   │   │   ├── src.c            
 │   │   │   ├── Journey.txt
