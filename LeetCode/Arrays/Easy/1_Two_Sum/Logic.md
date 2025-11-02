@@ -36,4 +36,6 @@ for (i = 0; i < n; i++) {
 
 ```
 
-💡 Approach 2: Hash Map
+💡 Approach 2: Sorting + Two-Pointer
+
+💡 Approach 3: Hash Map
