@@ -12,13 +12,13 @@ Level: `Easy`
 Level: `Medium`
 | LC Qn | Title | Solution | Logical Flow |
 |---|---|---|---|
-| . | [Title]() | [src.c]() |
+| . | [Title]() | [src.c]() | [Logic]() |
 |  |  |  |  |
 
 Level: `Hard`
 | LC Qn | Title | Solution | Logical Flow |
 |---|---|---|---|
-| . | [Title]() | [src.c]() |
+| . | [Title]() | [src.c]() | [Logic]() |
 |  |  |  |  |
 
 ![Stack](https://img.shields.io/badge/Stack-000080?style=for-the-badge&logo=C&logoColor=white)
@@ -32,11 +32,11 @@ Level: `Easy`
 Level: `Medium`
 | LC Qn | Title | Solution | Logical Flow |
 |---|---|---|---|
-| . | [Title]() | [src.c]() |
+| . | [Title]() | [src.c]() | [Logic]() |
 |  |  |  |  |
 
 Level: `Hard`
 | LC Qn | Title | Solution | Logical Flow |
 |---|---|---|---|
-| . | [Title]() | [src.c]() |
+| . | [Title]() | [src.c]() | [Logic]() |
 |  |  |  |  |
