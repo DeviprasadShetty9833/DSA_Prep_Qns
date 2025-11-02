@@ -12,19 +12,19 @@ Please note: the prt.c file includes some random questions of all topics which i
 ```html
 LeetCode/
 |
-├── 📂 Arrays/                        # ☁️ Spring Boot Backend
-│   ├── Easy/
-│   │   ├── 📑1_Two_Sum/
-│   │   │   ├── src.c            # REST controllers
-│   │   │   ├── Journey.txt
+├── 📂 Arrays/                            # Data Structures 
+│   ├── Easy/                             # Medium 
+│   │   ├── 📑1_Two_Sum/                  # Question 
+│   │   │   ├── src.c                     # Solution 
+│   │   │   ├── Journey.txt               # Learning, Mistakes, Flow of Answering 
 │   │   ├── 📑 14_Longest_Common_Prefix/
-│   │   │   ├── src.c            # REST controllers
+│   │   │   ├── src.c            
 │   │   │   ├── Journey.txt
 │
-├── 📂 Stacks/                        # ☁️ Spring Boot Backend
+├── 📂 Stacks/                        
 │   ├── Easy/
 │   │   ├── 📑 20_Valid_Parentheses/
-│   │   │   ├── src.c            # REST controllers
+│   │   │   ├── src.c            
 │   │   │   ├── Journey.txt
 
 ```
