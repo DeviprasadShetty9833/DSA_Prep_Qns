@@ -24,10 +24,6 @@ LeetCode/
 ├── 20_Valid_Parentheses/
 ├── src.c
 ├── Journey.txt
-|
-├── Queues/
-├── queue.c (Question 1: Circular queue implementation)
-
 ```
 ---
 
