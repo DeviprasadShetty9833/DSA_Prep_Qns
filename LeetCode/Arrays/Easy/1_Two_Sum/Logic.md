@@ -23,6 +23,14 @@ nums[i] + nums[j] == target   # i != j
 Try all possible pairs and check if their sum equals the target. 
 
 ```c
+for (i = 0; i < n; i++) {
+    for (j = i + 1; j < n; j++) {
+        if (nums[i] + nums[j] == target) {
+            printf("[%d, %d]", i, j);
+            return;
+        }
+    }
+}
 
 ```
 💡 Approach 2: Hash Map
