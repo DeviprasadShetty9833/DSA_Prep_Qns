@@ -12,20 +12,21 @@ Please note: the prt.c file includes some random questions of all topics which i
 ```html
 LeetCode/
 |
-├── Arrays/
-├── Easy/
-├── 1_Two_Sum/
-├── src.c
-├── Journey.txt
-├── 14_Longest_Common_Prefix/
-├── src.c
-├── Journey.txt
-├──
-├── Stacks/
-├── Easy/
-├── 20_Valid_Parentheses/
-├── src.c
-├── Journey.txt
+├── 📂 Arrays/                        # ☁️ Spring Boot Backend
+│   ├── Easy/
+│   │   ├── 📑1_Two_Sum/
+│   │   │   ├── src.c            # REST controllers
+│   │   │   ├── Journey.txt
+│   │   ├── 📑 14_Longest_Common_Prefix/
+│   │   │   ├── src.c            # REST controllers
+│   │   │   ├── Journey.txt
+│
+├── 📂 Stacks/                        # ☁️ Spring Boot Backend
+│   ├── Easy/
+│   │   ├── 📑 20_Valid_Parentheses/
+│   │   │   ├── src.c            # REST controllers
+│   │   │   ├── Journey.txt
+
 ```
 ---
 
