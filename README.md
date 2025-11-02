@@ -25,15 +25,17 @@ This repository contains my solutions to **basic to medium-level Data Structures
 
 ## ✍️ Highlights
 - **Total Questions Solved:** 10+(and will continue to do more😊) 
+- **From Coding Platforms:**
+
+| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://github.com/DeviprasadShetty9833/DSA_Prep_Qns/blob/main/LeetCode.md) | [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://github.com/DeviprasadShetty9833/DSA_Prep_Qns/blob/main/HackerRank.md) | [![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white)](https://github.com/DeviprasadShetty9833/DSA_Prep_Qns/blob/main/HackerEarth.md) | [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://github.com/DeviprasadShetty9833/DSA_Prep_Qns/blob/main/CodeChef.md)
+|---|---|---|---|
+
 - **Topics Covered:**
   - Arrays
   - Stacks
   - Queues
   - Linked Lists
-- **Coding Platforms:**
 
-| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://github.com/DeviprasadShetty9833/DSA_Prep_Qns/blob/main/LeetCode.md) | [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://github.com/DeviprasadShetty9833/DSA_Prep_Qns/blob/main/HackerRank.md) | [![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white)](https://github.com/DeviprasadShetty9833/DSA_Prep_Qns/blob/main/HackerEarth.md) | [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://github.com/DeviprasadShetty9833/DSA_Prep_Qns/blob/main/CodeChef.md)
-|---|---|---|---|
 
 ---
 
