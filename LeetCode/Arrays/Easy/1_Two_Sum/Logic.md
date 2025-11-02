@@ -6,6 +6,7 @@ Given an array of integers `nums` and an integer `target`, return indices of the
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
 
 ### 🧮 Logic:
+
 Given: An array `nums`, A `target` number
 
 ```c
@@ -20,6 +21,7 @@ nums[i] + nums[j] == target   # i != j
 ```
 
 💡 Approach 1: Linear Search (Brute Force)
+
 Try all possible pairs and check if their sum equals the target. 
 
 ```c
@@ -33,4 +35,5 @@ for (i = 0; i < n; i++) {
 }
 
 ```
+
 💡 Approach 2: Hash Map
