@@ -86,8 +86,8 @@ LeetCode/
 
 ## 💡 Future Plans
 - Add more advanced-level questions.
-- Add problems on non linear data structures
-- Add solutions in C++
+- Add problems on non linear data structures.
+- Add solutions in Java.
 
 ---
 
