@@ -95,7 +95,7 @@ LeetCode/
 
 ---
 
-## 🤝 Contributions
+# 🤝 Contributions
 Feel free to contribute by:
 1. Forking the repository.
 2. Adding solutions or optimizations.
@@ -103,10 +103,13 @@ Feel free to contribute by:
 
 ---
 
-## 📝 Notes
+# 📝 Notes
 - The code is currently commented to indicate the logic and flow. Uncomment as needed to test or reuse.
 - For each file, you'll find solutions to several questions grouped logically. 
 - Happy coding!😊
+
+# 🙋‍♂️ Support:
+If you like ❤️ this portfolio, give it a ⭐ (Top right of page) and share it with friends!
 
 ---
 
